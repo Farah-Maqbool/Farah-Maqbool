@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farah-ai-engineer&show_icons=true&locale=en" alt="farah-ai-engineer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farah-ai-engineer&" alt="farah-ai-engineer" /></p>
-ere 👋
+Hye 👋
 
 <!--
 **Farah-Ai-Engineer/Farah-Ai-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
