@@ -4,7 +4,7 @@
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-maqbool&label=Profile%20views&color=0e75b6&style=flat" alt="farah-maqbool" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **farahprogrammer23@gmail.com**
 
