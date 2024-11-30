@@ -36,9 +36,8 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farah-maqbool&show_icons=true&locale=en&layout=compact" alt="farah-maqbool" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farah-maqbool&show_icons=true&locale=en&layout=compact" alt="farah-maqbool" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farah-maqbool&show_icons=true&locale=en" alt="farah-maqbool" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farah-maqbool&" alt="farah-maqbool" /></p>
 
