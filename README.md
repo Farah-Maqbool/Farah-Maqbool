@@ -4,9 +4,9 @@
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-maqbool&label=Profile%20views&color=0e75b6&style=flat" alt="farah-maqbool" /> </p>
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently learning **Machine Learning in Cyber Security**
 
-- 📫 How to reach me **farahprogrammer23@gmail.com**
+- 📫 How to reach me **farah.maqbool.ai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
