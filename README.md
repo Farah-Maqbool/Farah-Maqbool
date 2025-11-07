@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farah Maqbool</h1>
-<h3 align="center">AI Student</h3>
+<h3 align="center">AI / ML Engineer</h3>
 <img="right" alt="coding" width="400" src="https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-maqbool&label=Profile%20views&color=0e75b6&style=flat" alt="farah-maqbool" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning in Cyber Security**
 
 - 📫 How to reach me **farah.maqbool.ai@gmail.com**
 
