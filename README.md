@@ -91,12 +91,12 @@ class FarahMaqbool:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farah-maqbool&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farah-maqbool&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farah-maqbool&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=60A5FA&text_color=ffffff&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farah-maqbool&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farah-maqbool&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=farah-maqbool&theme=dark&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=60A5FA&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 ---
