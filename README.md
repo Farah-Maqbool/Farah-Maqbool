@@ -1,40 +1,137 @@
-<h1 align="center">Hi 👋, I'm Farah Maqbool</h1>
-<h3 align="center">AI / ML Engineer</h3>
-<img="right" alt="coding" width="400" src="https://www.sciencenews.org/article/chatgpt-ai-artificial-intelligence-education-cheating-accuracy
-">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farah-maqbool&label=Profile%20views&color=0e75b6&style=flat" alt="farah-maqbool" /> </p>
+<div align="center">
 
-- 📫 How to reach me **farah.maqbool.ai@gmail.com**
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Farah%20Maqbool&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/farah maqbool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farah maqbool" height="30" width="40" /></a>
-
-<a href="https://medium.com/@farahprogrammer23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@farahprogrammer23" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+SmolAgents;RAG+Pipelines+%7C+Vector+DBs+%7C+LLMs;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Jobs+%2C+Contracts+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-</p>
+<br/>
 
+<!-- Profile views + Followers badges -->
+<img src="https://komarev.com/ghpvc/?username=farah-maqbool&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/farah-maqbool?tab=followers">
+  <img src="https://img.shields.io/github/followers/farah-maqbool?label=Followers&style=for-the-badge&color=7C3AED" alt="followers"/>
+</a>
 
+</div>
 
+---
 
+## 🧠 About Me
 
+```python
+class FarahMaqbool:
+    role        = "AI Engineer"
+    location    = "Pakistan 🇵🇰"
+    focus       = ["Agentic AI", "LLM Systems", "RAG Pipelines", "ML"]
+    currently   = ["LangGraph", "LangChain", "Google ADK", "SmolAgents"]
+    strengths   = ["Building AI Agents", "Data Analysis", "ML Pipelines"]
+    available   = True  # Open to jobs, contracts & collaborations ✅
+    contact     = "farah.maqbool.ai@gmail.com"
+```
+
+> I engineer **intelligent AI systems** — from multi-step LangGraph agents and RAG pipelines to data-driven ML solutions. I bridge the gap between cutting-edge LLM research and real-world applications.
+
+---
+
+## 🚀 What I Work With
+
+<div align="center">
+
+### 🤖 AI / LLM Stack
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6B21A8?style=for-the-badge&logo=python&logoColor=white)
+![SmolAgents](https://img.shields.io/badge/SmolAgents-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🗄️ Vector DBs & RAG
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=elastic&logoColor=white)
+
+### 🐍 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 ML / Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+---
+
+## 🏗️ What I Can Build For You
+
+<div align="center">
+
+| 🤖 AI Agents | 📚 RAG Systems | 📊 ML Pipelines | 🔍 Data Analysis |
+|:---:|:---:|:---:|:---:|
+| Multi-step LangGraph agents | Document Q&A with ChromaDB/Pinecone | End-to-end ML workflows | Dashboards with Power BI |
+| Tool-using LLM workflows | Knowledge base chatbots | Classification & Regression | Pandas + Matplotlib reports |
+| Google ADK automations | Retrieval-augmented chatbots | HuggingFace fine-tuning | Business intelligence |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farah-maqbool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farah-maqbool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farah-maqbool&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/farah-maqbool)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@farahprogrammer23)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farah.maqbool.ai@gmail.com)
+[![Upwork](https://img.shields.io/badge/Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=black)](mailto:farah.maqbool.ai@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farah-maqbool&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F59E0B&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to Opportunities
+
+**Full-time · Part-time · Freelance · Contract · Collaboration**
+
+*Building intelligent systems, one agent at a time.*
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+</div>
