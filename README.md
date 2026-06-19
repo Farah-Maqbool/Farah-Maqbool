@@ -125,10 +125,6 @@ class FarahMaqbool:
 
 <div align="center">
 
-### 💬 Open to Opportunities
-
-**Full-time · Part-time · Freelance · Contract · Collaboration**
-
 *Building intelligent systems, one agent at a time.*
 
 <!-- Footer wave -->
