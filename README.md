@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a4e,100:1e3a8a&height=200&section=header&text=Farah%20Maqbool&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20AI&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a4e,100:1e3a8a&height=200&section=header&text=Farah%20Maqbool&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Agent%20Developer%20%7C%20Multi-Agent%20Systems%20%7C%20RAG%20%26%20AI%20Automation&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Agents+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+SmolAgents;RAG+Pipelines+%7C+Vector+DBs+%7C+LLMs;Turning+Data+into+Decisions+%F0%9F%93%8A;Open+to+Jobs+%2C+Contracts+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+LLM+Applications+%F0%9F%A4%96;LangGraph+%7C+CrewAI+%7C+Google+ADK;Multi-Agent+Systems+%7C+RAG+Pipelines;AI+Automation+%7C+FastAPI+%7C+Python;Open+to+Jobs%2C+Contracts+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,16 +25,30 @@
 
 ```python
 class FarahMaqbool:
-    role        = "AI Engineer"
+    role        = "AI Agent & LLM Application Developer"
     location    = "Pakistan 🇵🇰"
-    focus       = ["Agentic AI", "LLM Systems", "RAG Pipelines", "ML"]
-    currently   = ["LangGraph", "LangChain", "Google ADK", "SmolAgents"]
-    strengths   = ["Building AI Agents", "Data Analysis", "ML Pipelines"]
+    focus       = [
+        "Agentic AI",
+        "Multi-Agent Systems",
+        "RAG Pipelines",
+        "AI Automation"
+    ]
+    currently   = [
+        "LangGraph",
+        "CrewAI",
+        "Google ADK",
+        "LLM Applications"
+    ]
+    strengths   = [
+        "Building AI Agents",
+        "LLM Applications",
+        "Workflow Automation"
+    ]
     available   = True  # Open to jobs, contracts & collaborations ✅
     contact     = "farah.maqbool.ai@gmail.com"
 ```
 
-> I engineer **intelligent AI systems** — from multi-step LangGraph agents and RAG pipelines to data-driven ML solutions. I bridge the gap between cutting-edge LLM research and real-world applications.
+> I build AI agents and LLM-powered applications using multi-agent systems, Retrieval-Augmented Generation (RAG), and AI automation. My focus is on creating practical AI solutions that solve real-world problems through intelligent workflows and scalable backend systems.
 
 ---
 
@@ -45,30 +59,27 @@ class FarahMaqbool:
 ### 🤖 AI / LLM Stack
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1D4ED8?style=for-the-badge&logo=python&logoColor=white)
-![SmolAgents](https://img.shields.io/badge/SmolAgents-1E40AF?style=for-the-badge&logo=huggingface&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-1E40AF?style=for-the-badge&logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0EA5E9?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🗄️ Vector DBs & RAG
+### 📚 Retrieval & Search
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1D4ED8?style=for-the-badge&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-1E3A8A?style=for-the-badge&logo=elastic&logoColor=white)
 
-### 🐍 Languages & Core
+### 🐍 Backend & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1D4ED8?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🔧 Machine Learning Foundations
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1D4ED8?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -78,11 +89,11 @@ class FarahMaqbool:
 
 <div align="center">
 
-| 🤖 AI Agents | 📚 RAG Systems | 📊 ML Pipelines | 🔍 Data Analysis |
+| 🤖 AI Agents | 🧠 Multi-Agent Systems | 📚 RAG Applications | ⚙️ AI Automation |
 |:---:|:---:|:---:|:---:|
-| Multi-step LangGraph agents | Document Q&A with ChromaDB/Pinecone | End-to-end ML workflows | Dashboards with Power BI |
-| Tool-using LLM workflows | Knowledge base chatbots | Classification & Regression | Pandas + Matplotlib reports |
-| Google ADK automations | Retrieval-augmented chatbots | HuggingFace fine-tuning | Business intelligence |
+| Tool-Using Agents | Agent Orchestration | Document Q&A Systems | Workflow Automation |
+| LLM Applications | CrewAI Workflows | Knowledge Assistants | Business Process Automation |
+| LangGraph Systems | Google ADK Agents | Retrieval Pipelines | AI Integrations |
 
 </div>
 
@@ -125,7 +136,7 @@ class FarahMaqbool:
 
 <div align="center">
 
-*Building intelligent systems, one agent at a time.*
+*Building AI agents that solve real-world problems.*
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a1a4e,100:1e3a8a&height=120&section=footer" width="100%"/>
